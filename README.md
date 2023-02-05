@@ -34,3 +34,16 @@ $ python train.py --dataname Quake_Smart-seq2_Limb_Muscle --highly_genes 500 --p
 | pretrain epochs | Number of pretrain epochs                                    |
 |     maxiter     | Number of training epochs                                    |
 
+## Citation
+
+```
+@inproceedings{yu2022zinb,
+  title={Zinb-based graph embedding autoencoder for single-cell rna-seq interpretations},
+  author={Yu, Zhuohan and Lu, Yifu and Wang, Yunhe and Tang, Fan and Wong, Ka-Chun and Li, Xiangtao},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={4},
+  pages={4671--4679},
+  year={2022}
+}
+```
